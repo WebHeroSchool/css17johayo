@@ -41,8 +41,12 @@
   top: 0px;
 }
 
-.menu__line_second, .menu__line_third {
+.menu__line_second {
   top: 13px;
+}
+
+.menu__line_third {
+  top: 26px;
 }
 
 @media screen and (max-width: 500px) {
